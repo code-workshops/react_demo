@@ -1,4 +1,4 @@
-# Pitchforks Client
+# React
 
 ## TODO
 - Create About
